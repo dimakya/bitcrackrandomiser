@@ -1,5 +1,12 @@
 # Bitcrack-Randomiser
 
+Hi this is dimakya.
+BitcrackrandomiserBitcrackrandomiserBitcrackrandomiserBitcrackrandomiser
+
+BitcrackrandomiserBitcrackrandomiserBitcrackrandomiser
+Bitcrackrandomiser Bitcrackrandomiser
+Bitcrackrandomiser
+
 Bitcrackrandomiser is a solo pool project for Bitcoin puzzle **66, 67 and 68**. (Technically supports up to Puzzle 100). It works with Bitcrack and VanitySearch.
 
 Supports <ins>Windows</ins>, <ins>Linux</ins> and <ins>MacOS</ins>.
