@@ -66,3 +66,11 @@ true
 "ProofKey" is the private key of the wallet address you get with the GET method. "ProofValue" and "ProofKey" are updated on every request.
 
 There is rate limit: **60 request in 1 hour**
+
+Name |  Type | Required | Default Value | Info
+--- | --- | --- |  --- | ---
+PuzzleCode |  string (query) | no | 66 | The puzzle number you want to scan. Possible values: 66,67,68 and 38 for test pool
+StartsWith|  string (query) | no | 0 | If you want to scan a specific range, send it as a minimum of 2 and a maximum of 5 characters. Examples; `2F` `3B13` or `201AF`
+Scantype|  string (query) | no | default | The setting variables that you will use as the scan type are sent.
+UserToken|  string (*header) | yes | null | User token value of worker/user.
+WalletAddress|  string (*header) | yes | null | Wallet address of worker/user.
